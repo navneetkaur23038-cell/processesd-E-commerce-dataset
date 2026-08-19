@@ -105,16 +105,6 @@ Keep the notebook and CSV files in the same directory.
 
 **Python • Pandas • Jupyter Notebook • Google Colab • GitHub**
 
-## 🚀 Future Scope
-
-* Sales and revenue analysis
-* Product and category performance
-* Customer segmentation
-* Regional analysis
-* Time-based sales trends
-* Data visualization
-* Power BI / Tableau dashboard
-
 ## 👨‍💻 Author
 
 **NAVNEET KAUR**
